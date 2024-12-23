@@ -7970,7 +7970,7 @@ iframe[data-uk-cover] {
   border-radius: 500px;
 }
 .uk-border-rounded {
-  border-radius: 5px;
+  border-radius: 15px;
 }
 /*
  * Fix `overflow: hidden` to be ignored with border-radius and CSS transforms in Webkit
